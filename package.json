@@ -1,0 +1,15 @@
+{
+  "name": "color216",
+  "version": "1.0.0",
+  "description": "------------------------------------------- Source installation information for modders ------------------------------------------- This code follows the Minecraft Forge installation methodology. It will apply some small patches to the vanilla MCP source code, giving you and it access  to some of the data and functions you need to build a successful mod.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-diff": "^1.2.0",
+    "gm": "^1.23.1"
+  }
+}
